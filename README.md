@@ -20,13 +20,13 @@ Docker · Git · GitHub · Linux
 
 ## Featured Projects
 
-🚀 **TaskFlow**
+**TaskFlow**
 SaaS backend built with FastAPI, PostgreSQL, Redis and Docker.
 
-🤖 **OrderBot**
+**OrderBot**
 Business Telegram automation system with Python and PostgreSQL.
 
-⚡ **HighLoad URL Shortener**
+**HighLoad URL Shortener**
 High-performance Go backend with Redis, PostgreSQL, concurrency and benchmarking.
 
 ## Currently
