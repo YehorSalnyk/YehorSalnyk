@@ -1,4 +1,4 @@
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Yehor Salnyk 
 
 ### Backend Developer
 
